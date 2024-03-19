@@ -1,12 +1,24 @@
-# CIS 3.0 Build-a-thon
+# CIC 3.0 Build-a-thon
 
-Welcome to the CIS 3.0 Build-a-thon organized by the School of Computer Science and Engineering (CSE), Lovely Professional University!
+Welcome to the CIC 3.0 Build-a-thon organized by the School of Computer Science and Engineering (CSE), Lovely Professional University!
 
-![Image](https://github.com/rajankakkar01/CIS-3.0-Build-a-thon/blob/6437dc5c3f114118d8d8b2b091612c995f123fe9/Participate%20%20Win.png)
+![Image](Picturethumbnail.png)
 ## Problem Statement
 
-**Problem Statement**: 
 <!-- [Brief description of the problem participants will be solving during the hackathon. It should be clear, concise, and provide enough context for participants to understand the challenge.] -->
+**Theme Based Problems** <br><br><br>
+**1.⁠ ⁠FITNESS AND SPORTS** <br><br>
+Description :-Ideas that can boost fitness activities and assist in keeping fit.<br><br><br>
+**2.	 AGRICULTURE, FOODTECH & RURAL DEVELOPMENT** <br><br>
+Description: - Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce. <br><br><br>
+**3.	 SMART VEHICLES** <br><br>
+Description: - Creating intelligent devices to improve commutation sector. <br><br><br>
+**4.	 CLEAN & GREEN TECHNOLOGY** <br><br>
+Description: - Solutions could be in the form of waste segregation, disposal, and improve sanitization system. <br><br><br>
+**5.	 RENEWABLE/ SUSTAINABLE ENERGY** <br><br>
+Description: - Innovative ideas that help manage and generate renewable /sustainable sources more efficiently <br><br><br>
+**6.	 DISASTER MANAGEMENT** <br><br>
+Description: - Disaster management includes ideas related to risk mitigation, Planning and management before, after or during a disaster. <br><br><br>
 
 ## How to Participate
 
@@ -26,22 +38,13 @@ Welcome to the CIS 3.0 Build-a-thon organized by the School of Computer Science 
 
 ## Team Size
 
-- Teams should consist of <!-- [specify team size]. --> members. Solo participants are also welcome.
+- Teams should consist of 3 members. Solo participants are also welcome.
 
-## Prizes
-
-- <!-- [Specify the prizes for the hackathon. This could include cash prizes, certificates, recognition, etc.] -->
-
-## Important Dates
-
-- **Hackathon Start Date**: <!-- [Specify the start date] -->
-- **Hackathon End Date**: <!-- [Specify the end date] -->
-- **Submission Deadline**: <!-- [Specify the deadline for submissions] -->
 
 ## Contact Information
 
 For any queries or clarifications, feel free to reach out to us at Rajan Kakkar.
 
-  ![Image](https://github.com/rajankakkar01/CIS-3.0-Build-a-thon/blob/6437dc5c3f114118d8d8b2b091612c995f123fe9/CIS%203.0%20Hackathon.png)
+  ![Image](https://github.com/rajankakkar01/CIC-3.0-Build-a-thon/blob/main/CIC%203.0%20Hackathon.png)
 
 Best of Luck
