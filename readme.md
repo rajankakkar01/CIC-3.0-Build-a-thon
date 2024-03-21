@@ -43,7 +43,7 @@ Description: - Disaster management includes ideas related to risk mitigation, Pl
 
 ## Contact Information
 
-For any queries or clarifications, feel free to reach out to us at Rajan Kakkar.
+For any queries or clarifications, reach out to Rajan Kakkar.
 
   ![Image](https://github.com/rajankakkar01/CIC-3.0-Build-a-thon/blob/main/CIC%203.0%20Hackathon.png)
 
