@@ -32,7 +32,7 @@ Description: - Disaster management includes ideas related to risk mitigation, Pl
 
 - Participants must adhere to the following rules:
   - Code submissions must be original and not plagiarized.
-  - Teams must consist of <!-- [specify team size]. -->
+  - Teams should consist of 3 members
   - All submissions must be made within the specified time frame.
   - Any violations of the rules may result in disqualification.
 
